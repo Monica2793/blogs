@@ -1,2 +1,1 @@
-This holds my name
-My name is Monica Reddy
+I was trying to demonstrate merge conflict and how to resolve it!
